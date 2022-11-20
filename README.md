@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on NLP text classification and summarization problems
-- 📫 How to reach me:https://www.linkedin.com/in/varun-mathur-ds/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varun-mathur-ds/)
 
 <!--
 
