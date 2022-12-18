@@ -12,4 +12,4 @@ I am **Varun**
 Here are some ideas to get you started:
 
 -->
-![](https://komarev.com/ghpvc/?username=github.com/vrunm/)
+![](https://komarev.com/ghpvc/?username=vrunm)
