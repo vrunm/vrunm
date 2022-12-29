@@ -2,7 +2,7 @@
 
 I am **Varun**
 
-- 🔭 I’m currently working on NLP text classification and summarization problems
+- 🔭 I’m currently working on NLP text classification and summarization problems.
 
 I am a final year postgraduate student currently pursuing a Masters in Data Science.
 
