@@ -25,11 +25,6 @@ Built an image classification model to predict four different types of satellite
 
 
 
-Feel free to reach out to me:  &nbsp;
-
-<a href="https://www.linkedin.com/in/varun-mathur-ds/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn" href="https://www.linkedin.com/in/varun-mathur-ds/"></a>
-<a href="mailto:varunm500@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=Gmail" alt="Email" href="mailto:varunm500@gmail.com"></a>
-
 
 
 
