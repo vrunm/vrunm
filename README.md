@@ -12,6 +12,9 @@ I am skilled in Machine Learning and applications of Deep Learning to Natural La
  - **[Financial Dashboard :](https://github.com/vrunm/Financial_Dashboard)**
  Built an end-to-end financial dashboard that collects and consolidates all of a business's critical observations in one place using the information obtained from the annual 10-K SEC Filings.
 
+- **[Sentiment Analysis For Financial News Articles](https://github.com/vrunm/Financial_Sentiment_Analysis)**
+Built a sentiment analysis model to predict the sentiment of a financial news article. A Comparitive study of different optimizers used for training was done.
+
 - **[Bike Sharing Demand :](https://github.com/vrunm/Bike_Sharing_Demand)**
 Built a Regression model to predict the number of bike rentals which will be booked during a given day based
 on several factors like temperature,no of registered users.
