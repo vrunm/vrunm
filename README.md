@@ -12,6 +12,9 @@ I am skilled in Machine Learning and applications of Deep Learning to Natural La
  - **[Financial Dashboard :](https://github.com/vrunm/Financial_Dashboard)**
  Built an end-to-end financial dashboard that collects and consolidates all of a business's critical observations in one place using the information obtained from the annual 10-K SEC Filings.
 
+-  **[Question Answering on the Squad Dataset:](https://github.com/vrunm/Question-Answering-Squad)**
+Built a Question Answering system for News Articles.
+
 - **[Sentiment Analysis For Financial News Articles](https://github.com/vrunm/Financial_Sentiment_Analysis)**
 Built a sentiment analysis model to predict the sentiment of a financial news article. A Comparative study of different optimizers used for training was done.
 
@@ -25,8 +28,7 @@ Built a Classification model to predict the satisfaction of a customer based on 
 - **[Satellite Image Classification :](https://github.com/vrunm/Satellite-Image-Classification)**
 Built an image classification model to predict four different types of satellite images.
 
--  **[Question Answering on the Squad Dataset:](https://github.com/vrunm/Question-Answering-Squad)**
-Built a Question Answering system for News Articles.
+
 
 
 
