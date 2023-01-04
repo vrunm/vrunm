@@ -15,7 +15,7 @@ I am skilled in Machine Learning and applications of Deep Learning to Natural La
 -  **[Question Answering on the Squad Dataset:](https://github.com/vrunm/Question-Answering-Squad)**
 Built a Question Answering system for News Articles.
 
-- **[Sentiment Analysis For Financial News Articles]([Text-Classification-Financial-Phrase-Bank](https://github.com/vrunm/Text-Classification-Financial-Phrase-Bank))**
+- **[Sentiment Analysis For Financial News Articles:](https://github.com/vrunm/Text-Classification-Financial-Phrase-Bank)**
 Built a sentiment analysis model to predict the sentiment of a financial news article. A Comparative study of different optimizers used for training was done.
 
 - **[Text Summarization News Articles](https://github.com/vrunm/Text-Summarization-News-Articles)**
