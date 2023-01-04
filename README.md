@@ -25,7 +25,7 @@ Built a Classification model to predict the satisfaction of a customer based on 
 - **[Satellite Image Classification :](https://github.com/vrunm/Satellite-Image-Classification)**
 Built an image classification model to predict four different types of satellite images.
 
-- **[Question Answering on the Squad Dataset:] (https://github.com/vrunm/Question-Answering-Squad)**
+-  **[Question Answering on the Squad Dataset:](https://github.com/vrunm/Question-Answering-Squad)**
 Built a Question Answering system for News Articles.
 
 
