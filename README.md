@@ -18,6 +18,9 @@ Built a Question Answering system for News Articles.
 - **[Sentiment Analysis For Financial News Articles](https://github.com/vrunm/Financial_Sentiment_Analysis)**
 Built a sentiment analysis model to predict the sentiment of a financial news article. A Comparative study of different optimizers used for training was done.
 
+- **[Text Summarization News Articles](https://github.com/vrunm/Text-Summarization-News-Articles)**
+Built a summarization model that gives short and concise summaries for news articles
+
 - **[Bike Sharing Demand :](https://github.com/vrunm/Bike_Sharing_Demand)**
 Built a Regression model to predict the number of bike rentals which will be booked during a given day based
 on several factors like temperature,no of registered users.
