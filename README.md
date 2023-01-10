@@ -21,6 +21,9 @@ Built a Question Answering system for News Articles.
 - **[Text Summarization News Articles](https://github.com/vrunm/Text-Summarization-News-Articles)**
 Built a summarization model that gives short and concise summaries for news articles.
 
+- **[Named Entity Recognition for News Articles](https://github.com/vrunm/News-Articles-NER)**
+Built a Custom NER model to identify the named entities from News Articles. 
+
 - **[Bike Sharing Demand :](https://github.com/vrunm/Bike_Sharing_Demand)**
 Built a Regression model to predict the number of bike rentals which will be booked during a given day based
 on several factors like temperature,no of registered users.
