@@ -18,7 +18,7 @@ Built a sentiment analysis model to predict the sentiment of a Financial News ar
 Built a Question Answering system for News Articles.
 
 - **[Text Summarization News Articles:](https://github.com/vrunm/Text-Summarization-News-Articles)**
-Built a summarization model that gives short and concise summaries for news articles.
+Built a summarization model that gives short and concise summaries for News Articles.
 
 - **[Named Entity Recognition For News Articles:](https://github.com/vrunm/News-Articles-NER)**
 Built a Custom NER model to identify the named entities from News Articles. 
