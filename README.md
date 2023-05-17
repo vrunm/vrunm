@@ -25,7 +25,7 @@ Built a Custom NER model to identify the named entities from News Articles.
 
 - **[Bike Sharing Demand:](https://github.com/vrunm/Bike_Sharing_Demand)**
 Built a Regression model to predict the number of bike rentals which will be booked during a given day based
-on several factors like temperature, no of registered users.
+on several factors like temperature, No of registered users.
 
 - **[Airline Passenger Satisfaction:](https://github.com/vrunm/Airline_Passenger_Satisfaction)**
 Built a Classification model to predict the satisfaction of a customer based on several factors like Departure/Arrival Time, Ease of Online Booking, Seat Comfort.
