@@ -2,10 +2,10 @@
 
 I am **Varun**
 
-- 🔭 I’m currently working on NLP text classification and summarization problems.
+- 🔭 I’m currently working on NLP text classification, Summarization, LLMs and Vector databases.
 
 
-I am skilled in Machine Learning and applications of Deep Learning to Natural Language Processing and Computer Vision. Some of the projects that I have worked on are:
+I am skilled in Machine Learning and applications of Deep Learning to Natural Language Processing and Large Language Models.Some of the projects that I have worked on are:
 
 
  - **[Financial Dashboard :](https://github.com/vrunm/Financial_Dashboard)**
