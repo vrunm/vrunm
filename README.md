@@ -2,7 +2,7 @@
 
 I am **Varun**
 
-- 🔭 I’m currently working on NLP text classification, Summarization, LLMs and Vector databases.
+- 🔭 I’m currently working on NLP Text Classification, Summarization, LLMs and Vector Databases.
 
 
 I am skilled in Machine Learning and applications of Deep Learning to Natural Language Processing and Large Language Models.Some of the projects that I have worked on are:
