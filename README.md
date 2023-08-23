@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am **Varun**
+### Hi, I am **Varun**!
 
 - 🔭 I’m currently working on NLP Text Classification, Summarization, LLMs and Vector Databases.
 
