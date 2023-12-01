@@ -1,10 +1,5 @@
 ### Hi, I am **Varun**!
-
-- 🔭 I’m currently working on LLMs, Generative AI,Text Classification, Summarization and Vector Databases.
-
-
-I am skilled in Machine Learning and applications of Deep Learning to Natural Language Processing and Computer Vision. I am actively working on Large Language Models. Some of the projects that I have worked on are:
-
+NLP developer working in the enhancement and development of applications based on Large Language Models (LLMs). Some of the projects that I have worked on are:
 
  - **[Financial Dashboard :](https://github.com/vrunm/Financial_Dashboard)**
  Built an end-to-end Financial Dashboard that collects and consolidates all of a business's critical observations in one place using the information obtained from the annual 10-K SEC Filings.
