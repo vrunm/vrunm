@@ -22,7 +22,7 @@ Some of the projects I have worked on:
  Hallucination. This helped quantitatively compare text generation performance while making sure the generation was accurate.
 
 
-**Comparison Hyperparameter Tuning and Optimizer Selection on Training Efficiency and LLM Performance:**
+**A comparison of Hyperparameter Tuning and Optimizer Selection on Training Efficiency and LLM Performance:**
 
 - **[Question Answering on the Squad Dataset:](https://github.com/vrunm/Question-Answering-Squad)**
 Built a Question Answering system for News Articles.
