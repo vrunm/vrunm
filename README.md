@@ -45,11 +45,11 @@ A comparative study of different optimizers used for training was done. The opti
 Built an end-to-end Financial Dashboard that collects and consolidates all of a business's critical observations in one place using the information obtained from the annual 10-K SEC Filings.
 The financial dashboard contains:
 
-    -Insights and summaries for different sections from annual corporate filings.
+    - Insights and summaries for different sections from annual corporate filings.
    
-    -Sentiment-based score that measures the company's performance over a certain time period.
+    - Sentiment-based score that measures the company's performance over a certain time period.
    
-    -Identification of Important topics and Frequently occuring words mentioned in the report.
+    - Identification of Important topics and Frequently occuring words mentioned in the report.
 
 
 
