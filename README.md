@@ -21,6 +21,16 @@ Some of the projects I have worked on:
  - Tuned the text generation hyperparameters: Temperature, Top-p, Top-k, and Max-Length to improve generation performance and evaluated the generated answers on Coverage, Redundancy, and
  Hallucination. This helped quantitatively compare text generation performance while making sure the generation was accurate.
 
+**Performance Evaluation of Rankers and RRF Techniques for Retrieval Pipelines**
+
+[Code](https://github.com/avnlp/rag-pipelines)
+[Report](https://github.com/avnlp/rag-pipelines/blob/main/rankers_rrf.pdf)
+
+A RAG pipeline can be tuned in many ways to give more relevant answers. One important way is to improve the retrieved context which is input to the LLM. This ensures that the generated answers are coherent and consistent with the content in the original documents.
+
+In the intricate world of LFQA and RAG, making the most of the LLM’s context window is paramount. Any wasted space or repetitive content limits the depth and breadth of the answers we can extract and generate. It’s a delicate balancing act to lay out the content of the context window appropriately. 
+
+We have done a comparative study of adding different combinations of rankers in a Retrieval pipeline along with the use of Reciprocal Rank Fusion (RRF) techniques. The results were evaluated on four metrics, viz., Normalized Discounted Cumulative Gain (NDCG), Mean Average Precision (MAP), Recall and Precision. We aim to analyze the effectiveness of adding different rankers to pipelines to improve the quality of retrieved documents.
 
 **A comparison of Hyperparameter Tuning and Optimizer Selection on Training Efficiency and LLM Performance:**
 
