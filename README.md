@@ -24,7 +24,7 @@ Some of the projects I have worked on:
 **Performance Evaluation of Rankers and RRF Techniques for Retrieval Pipelines**
 
 [Code](https://github.com/avnlp/rag-pipelines)
-[Report](https://github.com/avnlp/rag-pipelines/blob/main/rankers_rrf.pdf)
+[Report](https://github.com/avnlp/rag-pipelines/blob/main/paper/rankers_rrf.pdf)
 
 A RAG pipeline can be tuned in many ways to give more relevant answers. One important way is to improve the retrieved context which is input to the LLM. This ensures that the generated answers are coherent and consistent with the content in the original documents.
 
