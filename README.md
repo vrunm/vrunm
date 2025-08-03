@@ -32,25 +32,6 @@ In the intricate world of LFQA and RAG, making the most of the LLM’s context w
 
 We have done a comparative study of adding different combinations of rankers in a Retrieval pipeline along with the use of Reciprocal Rank Fusion (RRF) techniques. The results were evaluated on four metrics, viz., Normalized Discounted Cumulative Gain (NDCG), Mean Average Precision (MAP), Recall and Precision. We aim to analyze the effectiveness of adding different rankers to pipelines to improve the quality of retrieved documents.
 
-**A comparison of Hyperparameter Tuning and Optimizer Selection on Training Efficiency and LLM Performance:**
-
-- **[Question Answering on the Squad Dataset:](https://github.com/vrunm/Question-Answering-Squad)**
-Built a Question Answering system for News Articles.
-For the SQuAD dataset, a baseline was set using the BERT model. The BERT model was fine-tuned using an AdamW optimizer with learning rate of 5e-5, and a batch-size of 32. The DistilBERT and RoBERTa models were also fine-tuned using an AdamW optimizer with learning rate of 5e-5 and a batch-size of 32. The models were trained for 6 epochs each. The performance of the model was evaluated on the basis of F1-Score(Weighted) on the test set. The RoBERTa model achieved the best performance on the SQuAD dataset.
-A comparative study of different optimizers used for training was done. The optimizers were tuned for different parameters by a specific way of search spaces. Each parameter was first tuned on a large search space, and then a smaller and more refined search space was used to find the optimal value for training the model.
-
-
-- **[Text Summarization News Articles:](https://github.com/vrunm/Text-Summarization-News-Articles)**
-Built a summarization model that gives short and concise summaries for News Articles.
-For the Multi-News dataset, a baseline was set using the BART model. The BART model was fine-tuned using an AdamW optimizer with learning rate of 2e-5, and a batch-size of 32. The
-DistilBART model was also fine-tuned using an AdamW optimizer with learning rate of 2e-5 and a batch-size of 32. The model were trained for 6 epochs each. The performance of the model was evaluated on the basis of the ROUGE-1, ROUGE-2 and ROUGE-L scores on the test set. The DistilBART model achieved the best performance on the Multi-News dataset.
-A comparative study of different optimizers used for training was done. The optimizers were tuned for different parameters by a specific way of search spaces. Each parameter was first tuned on a large search space, and then a smaller and more refined search space was used to find the optimal value for training the model.
-
-- **[Sentiment Analysis For Financial News Articles:](https://github.com/vrunm/Text-Classification-Financial-Phrase-Bank)**
-Built a sentiment analysis model to predict the sentiment of a Financial News article.
-For the Financial PhraseBank dataset, a baseline was set using the BERT model. The BERT model was fine-tuned using an AdamW optimizer with learning rate of 5e-5, and a batch-size of 32. The FinBERT and DistilBERT models were also fine-tuned using an AdamW optimizer with learning rate of 5e-5 and a batch-size of 32. The models were trained for 6 epochs each. The performance of the model was evaluated on the basis of the Accuracy and F1-Score (Weighted) on the test set. The FinBERT model achieved the best performance on the Finanacial PhraseBank dataset.
-A comparative study of different optimizers used for training was done. The optimizers were tuned for different parameters by a specific way of search spaces. Each parameter was first tuned on a large search space, and then a smaller and more refined search space was used to find the optimal value for training the model.
-
  - **[Financial Dashboard :](https://github.com/vrunm/Financial_Dashboard)**
 Built an end-to-end Financial Dashboard that collects and consolidates all of a business's critical observations in one place using the information obtained from the annual 10-K SEC Filings.
 The financial dashboard contains:
@@ -61,12 +42,9 @@ The financial dashboard contains:
    
     - Identification of Important topics and Frequently occuring words mentioned in the report.
 
-
-
-
-
-
-
+**Open Source Contributions**:
+  - **[Haystack](https://github.com/deepset-ai/haystack)**: [deepset-ai/haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Avrunm+is%3Aclosed+sort%3Aupdated-desc), [deepset-ai/haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Avrunm+is%3Aclosed+sort%3Aupdated-desc)
+  
 
 
 
