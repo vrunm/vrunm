@@ -43,7 +43,7 @@ The financial dashboard contains:
     - Identification of Important topics and Frequently occuring words mentioned in the report.
 
 **Open Source Contributions**:
-  - **[Haystack](https://github.com/deepset-ai/haystack)**: [deepset-ai/haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+author%3Avrunm+is%3Aclosed+sort%3Aupdated-desc), [deepset-ai/haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Avrunm+is%3Aclosed+sort%3Aupdated-desc)
+  - **[Haystack](https://github.com/deepset-ai/haystack)**: [deepset-ai/haystack](https://github.com/deepset-ai/haystack/pulls?q=is%3Apr+is%3Aclosed+vrunm), [deepset-ai/haystack-core-integrations](https://github.com/deepset-ai/haystack-core-integrations/pulls?q=is%3Apr+author%3Avrunm+is%3Aclosed+sort%3Aupdated-desc)
   
 
 
