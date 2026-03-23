@@ -1,18 +1,23 @@
-### Hi, I am **Varun**!
-AI developer working in the enhancement and development of applications based on Large Language Models (LLMs).
+### Hi, I am **Varun**!                                                                                                     
+  AI developer focused on building and improving applications powered by Large Language Models (LLMs).                     
+                                                                                                                              
+**Open-Source Projects - 
+[AVNLP](https://avnlp.github.io/):**                                                               
+- **[BioThink](https://github.com/avnlp/biothink)**: Self-Reflective reasoning framework for Biomedical Question Answering. 
+- **[LLM-Finetuning](https://github.com/avnlp/llm-finetuning)**: Fine-tuning pipelines for LLMs using SFT and RLHF          
+techniques.                                                                                                                 
+- **[GRPO](https://github.com/avnlp/grpo)**: Implementations of Group Relative Policy Optimization (GRPO).
+- **[RAG-Model-Training](https://github.com/avnlp/rag-model-training)**: LLM training pipelines tailored for Retrieval      
+Augmented Generation.                                                                                                    
+- **[RAG Pipelines](https://github.com/avnlp/rag-pipelines)**: Advanced RAG systems including Self-Reflective, Corrective,  
+and Adaptive RAG, with Sub-Query Generation, Routing, and DeepEval-based evaluation.                                        
+- **[DSPy-Opt](https://github.com/avnlp/dspy-opt)**: RAG pipelines with prompt optimization using DSPy.
+- **[PRP](https://github.com/avnlp/prp)**: Implementation of the Pairwise Ranking Prompting (PRP) technique.                
+- **[Rankers](https://github.com/avnlp/rankers)**: LLM-based Pairwise, Setwise, and Listwise reranking systems.             
+- **[RRF](https://github.com/avnlp/rrf)**: Evaluation of Rankers and Reciprocal Rank Fusion (RRF) techniques for retrieval  
+pipelines.                                                                                                                  
+- **[LLM Blender](https://github.com/avnlp/llm-blender)**: LLM output ensembling using LLM-Blender.   
 
-**Developing Open-Source software - [AVNLP](https://avnlp.github.io/):**
-  - **[BioThink](https://github.com/avnlp/biothink)**:  Self-Reflective Question-Answering for Biomedical Reasoning.
-  - **[LLM-Finetuning](https://github.com/avnlp/llm-finetuning)**: Pipelines for Fine-Tuning LLMs using SFT and RLHF.
-  - **[GRPO](https://github.com/avnlp/grpo)**: Group Relative Policy Optimization (GRPO) Implementations.
-  - **[RAG-Model-Training](https://github.com/avnlp/rag-model-training)**: Training LLMs for Retrieval Augmented Generation.
-  - **[RAG Pipelines](https://github.com/avnlp/rag-pipelines)**: Advanced RAG Pipelines and Evaluation: Self-Reflective RAG, Corrective RAG, Adaptive RAG, Sub-Query Generation and Routing, DeepEval.
-  - **[DSPy-Opt](https://github.com/avnlp/dspy-opt)**: Advanced RAG Pipelines optimized with DSPy.
-  - **[PRP](https://github.com/avnlp/prp)**: Implementation of Pairwise Ranking Prompting (PRP) technique.
-  - **[Rankers](https://github.com/avnlp/rankers)**: LLM based Pairwise, Setwise, and Listwise rankers.
-  - **[RRF](https://github.com/avnlp/rrf)**: Performance Evaluation of Rankers and RRF Techniques for Retrieval Pipelines.
-  - **[LLM Blender](https://github.com/avnlp/llm-blender)**: Ensembling LLMs using LLM-Blender.
-  
 - **[Financial Dashboard :](https://github.com/vrunm/Financial_Dashboard)**
 Built an end-to-end Financial Dashboard that collects and consolidates all of a business's critical observations in one place using the information obtained from the annual 10-K SEC Filings.
 The financial dashboard contains:
